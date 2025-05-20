@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94f683eb.css",
+    "main.js": "/static/js/main.8823fbb8.js",
+    "static/js/787.e02ab709.chunk.js": "/static/js/787.e02ab709.chunk.js",
+    "static/media/Chainsaw man.png": "/static/media/Chainsaw man.9ba815f8a0f4fcc3e462.png",
+    "static/media/Suzume.jpeg": "/static/media/Suzume.3f34722746c8159be925.jpeg",
+    "static/media/Naruto.jpeg": "/static/media/Naruto.19d9134b79ac62cfcc25.jpeg",
+    "static/media/Jujutsu Kaisen.jpeg": "/static/media/Jujutsu Kaisen.893b7f89d0d3526fc1fe.jpeg",
+    "static/media/Dragon Ball.jpeg": "/static/media/Dragon Ball.53bad69ec244575585eb.jpeg",
+    "static/media/One Piece.jpeg": "/static/media/One Piece.792a0bb952440aee1e2d.jpeg",
+    "static/media/My Dress Up Darling.jpeg": "/static/media/My Dress Up Darling.5f7748d116c97c09e598.jpeg",
+    "static/media/Wathering With You.webp": "/static/media/Wathering With You.983e51d062edfd84bd2d.webp",
+    "static/media/Death Note.jpeg": "/static/media/Death Note.59357a468f14a3e78416.jpeg",
+    "static/media/Demon Slayer.jpeg": "/static/media/Demon Slayer.49a7403e0655c3cee2bf.jpeg",
+    "static/media/Your Name.jpeg": "/static/media/Your Name.e513fcc18e1bf0348e2b.jpeg",
+    "static/media/Rent a Girlfriend.jpeg": "/static/media/Rent a Girlfriend.dd58e2e10b3e5fbc3e98.jpeg",
+    "static/media/voice-call-icon.png": "/static/media/voice-call-icon.729f39c3bfd2607dc021.png",
+    "static/media/camera.ico": "/static/media/camera.e636445ceccc233525d3.ico",
+    "static/media/vdo-call.png": "/static/media/vdo-call.1f9521a61a5f3ed16590.png",
+    "static/media/3dot.svg": "/static/media/3dot.5e6a68e404e4da0acce43fbf69fce2df.svg",
+    "index.html": "/index.html",
+    "main.94f683eb.css.map": "/static/css/main.94f683eb.css.map",
+    "main.8823fbb8.js.map": "/static/js/main.8823fbb8.js.map",
+    "787.e02ab709.chunk.js.map": "/static/js/787.e02ab709.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94f683eb.css",
+    "static/js/main.8823fbb8.js"
+  ]
+}
